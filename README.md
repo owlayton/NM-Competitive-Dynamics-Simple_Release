@@ -1,7 +1,7 @@
 # NM-Competitive-Dynamics-Simple_Release
 CD model simulated in Ali, Decker &amp; Layton (Journal of Vision)
 
-To get started, (TDB)[download the Switch Experiment optic flow dataset]. Unzip data.zip to the base project directory, replacing the data subdirectory.
+To get started, (TDB)[download the Switch Experiment optic flow dataset]. Unzip data.zip to the base project directory, replacing the data subdirectory. See data/readme.txt for what file paths should be.
 
 ## Running CD model on Switch Experiment dataset
 
