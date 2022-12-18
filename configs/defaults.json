@@ -1,0 +1,71 @@
+{
+    "io":
+    {
+        "export":
+        {
+            "do": false
+        },
+        "exportPath":
+        {
+            "pc": "results",
+            "mac": "results"
+            
+        },
+        "stimulusPath":
+        {
+            "pc": "data",
+            "mac": "data"
+        },
+        "year": "2022",
+        "project": "HeadingPersistence",
+        "experiment_name": "Switch",
+        "nFrames": 41,
+        "num_stimuli": -1
+    },
+    "verbose":
+    {
+        "parameter_run":
+        {
+            "do": true,
+            "every": 1
+        },
+        "stimuli": false,
+        "heading": false,
+        "timeit": false
+    },
+    "model":
+    {
+        "random_seed": 0,
+        "input":
+        {
+            "dims": [128, 128],
+            "blackout":
+            {
+                "do": "none"
+            }
+        },
+        "mt":
+        {
+            "radius": 6,
+            "sigma": 9.51
+        },
+        "templates":
+        {
+            "step": 1
+        },
+        "mstd":
+        {
+            "radius": 19,
+            "sigma": 10.08,
+            "A": 0.81,
+            "B": 146,
+            "c": 0.7
+        },
+        "plot":
+        {
+            "mstdAct": false,
+            "input": false
+        }
+
+    }
+}
